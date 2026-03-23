@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @QenZ
+- 👋 Hi, I’m Vincenzo and you can call me qenzo
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on... idk
+- 💞️ I’m looking to collaborate on off grid mesh devices
 - 📫 How to reach me ...< wincenty.rutkiewicz@gmail.com >
 
 <!---
